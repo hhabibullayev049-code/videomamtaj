@@ -1,0 +1,6 @@
+{
+  "name": "Professional Video Editor",
+  "description": "Professional video editor with multi-track timeline, trimming, transitions, audio mixing, camera recording, filters, text overlays, and HD export.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
